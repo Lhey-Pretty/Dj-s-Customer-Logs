@@ -1,4 +1,0 @@
-{
-  "watch": ["controllers", "models", "routes", "views", "index.js"],
-  "ext": "js,mjs,json,xian"
-}
